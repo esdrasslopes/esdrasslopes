@@ -8,6 +8,8 @@
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasslopes&layout=compact&theme=github_dark" height="160">
 </div>
+
+ 
 ### Tecnologias que uso no meu dia
 
 <div style="display: inline_block"> <br/>
