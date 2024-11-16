@@ -8,7 +8,7 @@
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasslopes&layout=compact&theme=github_dark" height="160">
 </div>
-### Tecnologias que uso no meu dia
+Tecnologias que uso no meu dia
 
 <div style="display: inline_block"> <br/>
 <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" >
