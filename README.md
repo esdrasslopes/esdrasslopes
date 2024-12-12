@@ -32,7 +32,7 @@
 
 ## 🎓 Formação
 
-Estudante de Engenharia de Software no **2° Período**
+Estudante de Engenharia de Software no **3° Período**
 
 
 
