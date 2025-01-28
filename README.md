@@ -15,7 +15,9 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasslopes&layout=compact&theme=github_dark" height="150">
-  ![Esdras GitHub Stats](https://github-readme-stats.vercel.app/api?username=esdrasslopes&show_icons=true&theme=radical)
+ <div>
+     ![Esdras GitHub Stats](https://github-readme-stats.vercel.app/api?username=esdrasslopes&show_icons=true&theme=radical)
+ </div>
 </div>
 
 
