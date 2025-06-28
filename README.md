@@ -34,7 +34,7 @@
 
 ## 🎓 Formação
 
-Estudante de Engenharia de Software no **3° Período**
+Estudante de Engenharia de Software no **4° Período**
 
 
 
