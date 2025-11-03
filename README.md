@@ -21,7 +21,7 @@
 ## 💻 Tecnologias que uso no meu dia a dia
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,c,next,ts,nodejs,docker,postgres,prisma,nest,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,c,next,ts,nodejs,docker,postgres,prisma,nest,tailwind,mysql" />
   </a>
 </p>
 
