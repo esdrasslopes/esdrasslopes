@@ -29,7 +29,7 @@
 
 ## 🎓 Formação
 
-Estudante de Engenharia de Software no **4° Período**
+Estudante de Engenharia de Software no **5° Período**
 
 
 
